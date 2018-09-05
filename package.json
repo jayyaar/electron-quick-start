@@ -18,5 +18,11 @@
   "license": "CC0-1.0",
   "devDependencies": {
     "electron": "^2.0.0"
+  },
+  "dependencies": {
+    "@tensorflow/tfjs": "^0.12.6",
+    "@tensorflow/tfjs-converter": "^0.5.9",
+    "ffi": "^2.2.0",
+    "ref-array": "^1.2.0"
   }
 }
